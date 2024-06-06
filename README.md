@@ -1,10 +1,5 @@
-- 👋 Hi, I’m Arthur Miguel 
-- 👀 I’m interested in be a BackEnd dev ...
-- 🌱 I’m currently learning Java Spring, Git & FrontEnd on Ebac(recomend)...
-- 💞️ I’m looking to collaborate to learn new things as well...
-- 📫 How to reach me arthurmiguelsbsimoes@gmail.com...
-
-<!---
-ruhtraleugim/ruhtraleugim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!--Title @ruhtraleugim-->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&pause=1000&color=de59c2&random=false&width=435&lines=Meu+nome+%C3%A9+Arthur.+;Seja+Bem+vindo(a)+ao+meu+GitHub!" alt="Typing SVG" /></a>
+<!--<div align="center">
+</div>-->
+<hr>
