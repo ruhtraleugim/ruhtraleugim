@@ -21,3 +21,11 @@
 
 <a href="https://www.linkedin.com/in/arthur-miguel-souto-de-bastos-simões" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href = "mailto:amsbsimoes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://wa.me/+55061994087889" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> <a href="https://discord.com/users/_ruhtra" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> <a href="https://" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" target="blank" style="vertical-align:center" /></a>         
           
+## Estatística
+
+<div>
+<a href="https://github.com/ruhtraleugim"> </a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruhtraleugim&layout=compact&langs_count=7&theme=transparent"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ruhtraleugim&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+<img height="193em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ruhtraleugim&theme=transparent"/>
+</div>
