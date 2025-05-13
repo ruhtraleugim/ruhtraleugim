@@ -1,7 +1,5 @@
-<!--Title @ruhtraleugim-->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&pause=1000&color=00008B&random=false&width=435&lines=Meu+nome+%C3%A9+Arthur Simões.+;Seja+Bem+vindo(a)+ao+meu+GitHub!" alt="Typing SVG" /></a>
-<!--<div align="center">
-</div>-->
+<img src="https://readme-typing-svg.herokuapp.com?font=Itim&pause=1000&color=00008B&random=false&width=435&lines=Meu+nome+%C3%A9+Arthur+Sim%C3%B5es.+;Seja+Bem+vindo(a)+ao+meu+GitHub!" alt="Typing SVG" />
+
 <hr>
 
 ### Eu sou o Arthur Simões, prazer!👋
