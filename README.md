@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&pause=1000&color=00008B&width=435&lines=Arthur+Simões+•+Back-end+Developer+%7C+DevSecOps" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&pause=1000&color=00008B&width=435&lines=Arthur+Simões+•+Back-end+Developer+%7C" alt="Typing SVG" />
 
 ---
 
@@ -90,8 +90,8 @@ DevSecOps, OWASP, análise estática, hardening
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ruhtraleugim/ruhtraleugim/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ruhtraleugim/ruhtraleugim/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ruhtraleugim/ruhtraleugim/output/github-contribution-grid-snake.svg">
-</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ruhtraleugim/ruhtraleugim/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ruhtraleugim/ruhtraleugim/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ruhtraleugim/ruhtraleugim/output/github-contribution-grid-snake.svg">
+  </picture>
