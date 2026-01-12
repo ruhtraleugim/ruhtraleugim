@@ -23,21 +23,18 @@ Busco sempre entregar soluções **confiáveis, previsíveis e tecnicamente sól
 ### **1. Gerenciador de Inventário – Desafio (1 hora)**  
 Sistema funcional para gerenciamento de inventário, desenvolvido com tempo limitado.  
 **Stack:** Java  
-🔗 https://github.com/ruhtraleugim/Gerenciador-De-Inventario-Desafio-1-hora
 
 ---
 
 ### **2. Catálogo de Produtos – Desafio (1 hora)**  
 CRUD completo com foco em clareza e regras de negócio.  
 **Stack:** Java  
-🔗 https://github.com/ruhtraleugim/Catalogo-de-produtos-desafio-1-hora
 
 ---
 
 ### **3. BlueManager**  
 Aplicação Java estruturada com organização de domínio, fluxo e regras de negócio.  
 **Stack:** Java  
-🔗 https://github.com/ruhtraleugim/BlueManager
 
 ---
 
